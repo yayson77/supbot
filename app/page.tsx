@@ -84,7 +84,16 @@ export default function Chat() {
             />
             <h1 className="text-lg font-semibold text-black">
               Hi, welcome to Hollisbot!.
-            </h1>           
+            </h1>     
+            <p className="text-gray-500">
+              I'm part of a series of computational experiments taught by{" "}
+              <a
+                href="https://linkin.bio/yallahalim/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="font-medium underline underline-offset-4 transition-colors hover:text-black"
+              >
+                Halim Madi
               </a>. I was built using{" "}
               <a
                 href="https://openai.com/blog/gpt-3-5-turbo-fine-tuning-and-api-updates"
