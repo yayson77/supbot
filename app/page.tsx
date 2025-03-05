@@ -59,8 +59,8 @@ export default function Chat() {
                   <UserIcon />
                 ) : (
                   <Image
-                    src="/sample-image.png"
-                    alt="sample-image"
+                    src="<img src="https://example.com/image.jpg" alt="Description of image" width="500">"
+                    alt="Hollis"
                     width={36}
                     height={36}
                   />
