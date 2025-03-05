@@ -59,7 +59,7 @@ export default function Chat() {
                   <UserIcon />
                 ) : (
                   <Image
-                    src="<img src="https://example.com/image.jpg" alt="Description of image" width="500">"
+                    src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6e104b88-5722-4a43-bdcb-b39fe7377804_694x696.webp"
                     alt="Hollis"
                     width={36}
                     height={36}
