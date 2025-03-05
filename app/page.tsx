@@ -59,7 +59,7 @@ export default function Chat() {
                   <UserIcon />
                 ) : (
                   <Image
-                    src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6e104b88-5722-4a43-bdcb-b39fe7377804_694x696.webp"
+                    src="hollisbot.jpg"
                     alt="Hollis"
                     width={36}
                     height={36}
@@ -76,7 +76,7 @@ export default function Chat() {
         <div className="border-gray-200sm:mx-0 mx-5 mt-20 max-w-screen-md rounded-md border sm:w-full">
           <div className="flex flex-col space-y-4 p-7 sm:p-10">
             <Image
-              src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6e104b88-5722-4a43-bdcb-b39fe7377804_694x696.webp"
+              src="hollisbot.jpg"
               alt="Hollis"
               width={40}
               height={40}
